@@ -5,3 +5,11 @@
 ### [坚持学习简明Python教程](https://bop.molun.net/10.functions.html)
 ### 此次代码包括基础知识、运算符与表达式、控制流、函数等。
 ### 2.23更新，此次代码包括模块、Python基本数据结构。[看阮一峰对乔布斯经典名言解析](http://www.ruanyifeng.com/blog/2015/05/stay_hungry_stay_foolish.html)，我想打动乔布斯的是前方道路充满未知，我们义无反顾
+### 2.24更新，此次编写一个备份文件的Python小程序，涉及到软件开发流程
+##### 1、what/做什么（分析）
+##### 2、how/怎么做（设计）
+##### 3、do it/开始做（执行）
+##### 4、test/测试（测试与修复bug）
+##### 5、use/使用（操作或开发）
+##### 6、maintain/维护（改进）
+##### time.strftime()函数创建文件名、so.sep创建分隔符
